@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryVariant">#004EA5</color>
+    <color name="colorSecondary">#ff631d</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="profile_tint">#C1C6C8</color>
+    <color name="default_profile_tint">#818A8F</color>
+    <color name="subtitle_grey">#808181</color>
+    <color name="tabIndicatorColor">#FFA57C</color>
+</resources>

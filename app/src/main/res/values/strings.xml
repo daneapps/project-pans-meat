@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DaneTeamSnap</string>
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="people">People</string>
+    <string name="menu">Menu</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="games">Games</string>
+    <string name="past">Past</string>
+    <string name="add_your_players">Add Your Players</string>
+    <string name="add_players_description">Keep track of all the people on your team, set your roster and stay connected. You can import from your phone contacts or from an existing TeamSnap team.</string>
+    <string name="new_event">New Event</string>
+    <string name="welcome_dev_note">Hi, my name is Dane! Welcome to my demo! I noticed a white screen on startup, so I introduced a window background. androidx.core.splashscreen will hopefully make this easier, but an older way was used for now!</string>
+    <string name="event_dev_note">The bottom navigation frees us to use the tabs as a sort of filter, replacing the older menu style. There may be more modern/clever ways of representing a filter.\n\nPress the fab to see the re-skinned creation view.</string>
+    <string name="nothing_to_see_here">Nothing to see here :)</string>
+    <string name="menu_dev_note">I noticed the icons in the settings were not quite centered with the center of the text, however I got busy, no demo here, sorry :(</string>
+    <string name="event_name">Event Name</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeats">Repeats</string>
+    <string name="volunteer_assignments">Volunteer Assignments</string>
+    <string name="assignment_or_task">Assignment or task</string>
+    <string name="notify_team">Notify Team</string>
+    <string name="event_info">Event Info</string>
+</resources>
